@@ -1,0 +1,15 @@
+
+.search-field{
+  margin: 20px 0;
+  border: none;
+  outline: none;
+  border-radius: 5px;
+  width: 150px;
+  padding: 10px;
+  transition: width 0.25s ease-in-out;
+  line-height: 30px;
+
+  &:focus {
+    width: 200px;
+  }
+}
