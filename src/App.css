@@ -16,3 +16,9 @@
   flex-direction: column;
   align-items: center;
 }
+
+h1 {
+  font-family: 'Hanalei Fill', cursive;
+  font-size: 70px;
+  color: #0ccac4;
+}
